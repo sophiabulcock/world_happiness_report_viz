@@ -24,4 +24,4 @@ Ryan and Sophia worked well together, splitting up the workload fairly evening a
 
 ## Things that went poorly
 
-- Altair felt a bit finicky in trying to get repeated graphs to visually look well, with limitations in layering if they were already repeated.  The information we found for helping us create the world visual lacked some key information so it took awhile to figure out exactly how to get it to work. 
+- Altair felt a bit finicky in trying to get repeated graphs to visually look well, with limitations in layering if they were already repeated.  The information we found for helping us create the world visual lacked some key information so it took awhile to figure out exactly how to get it to work. The 6 csv files also did not have all the same columns, making it a bit difficult to combine them.
